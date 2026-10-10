@@ -1,0 +1,39 @@
+{
+  "source": "characters-original.png",
+  "columns": 4,
+  "rows": 4,
+  "characters": {
+    "traveler": {
+      "file": "traveler-walk.png",
+      "width": 205,
+      "height": 291,
+      "frames": 4,
+      "fps": 6,
+      "pivot": "bottom-center"
+    },
+    "baker": {
+      "file": "baker-walk.png",
+      "width": 229,
+      "height": 313,
+      "frames": 4,
+      "fps": 6,
+      "pivot": "bottom-center"
+    },
+    "gardener": {
+      "file": "gardener-walk.png",
+      "width": 236,
+      "height": 313,
+      "frames": 4,
+      "fps": 6,
+      "pivot": "bottom-center"
+    },
+    "cat": {
+      "file": "cat-walk.png",
+      "width": 269,
+      "height": 267,
+      "frames": 4,
+      "fps": 6,
+      "pivot": "bottom-center"
+    }
+  }
+}

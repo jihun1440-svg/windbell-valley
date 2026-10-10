@@ -1,0 +1,9 @@
+.tools/
+reference/
+qa/
+__pycache__/
+scripts/check_github.py
+scripts/publish_github.py
+scripts/pages_status.py
+*.log
+deployment.json
